@@ -2,6 +2,34 @@
 <html lang="en">
 
 <head>
+  <style>
+  .whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #25d366;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .whatsapp-float:hover {
+    background-color: #128c7e;
+    color: white;
+  }
+</style>
+
+
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -38,6 +66,11 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+<!-- Tombol WhatsApp Menggantung -->
+<a href="https://wa.me/6289531774990" class="whatsapp-float" target="_blank" title="Hubungi kami via WhatsApp">
+  <i class="fab fa-whatsapp"></i>
+</a>
+
 
 <body>
 
