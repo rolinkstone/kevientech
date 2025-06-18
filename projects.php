@@ -55,7 +55,7 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index" class="active">Beranda</a></li>
+          <li><a href="index">Beranda</a></li>
           <li><a href="about">Tentang Kami</a></li>
           <li class="dropdown"><a href="#"><span>Layanan Kami</span> <i
                 class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -64,13 +64,13 @@
             
               <li><a href="printing">Percetakan & Desain</a></li>
               <li><a href="procurement">Pengadaan Barang</a></li>
-              <li><a href="Security">Keamanan & Sistem Akses</a></li>
+              <li><a href="security">Keamanan & Sistem Akses</a></li>
               <li><a href="networking">Jaringan & Infrastruktur</a></li>
               <li><a href="maintenance">Perawatan & Perbaikan</a></li>
             </ul>
           </li>
          
-          <li><a href="projects">Portofolio</a></li>
+          <li><a href="projects" class="active">Portofolio</a></li>
           <li><a href="contact">Kontak Kami</a></li>
         </ul>
       </nav><!-- .navbar -->
