@@ -64,7 +64,7 @@
             
               <li><a href="printing">Percetakan & Desain</a></li>
               <li><a href="procurement">Pengadaan Barang</a></li>
-              <li><a href="Security">Keamanan & Sistem Akses</a></li>
+              <li><a href="security">Keamanan & Sistem Akses</a></li>
               <li><a href="networking">Jaringan & Infrastruktur</a></li>
               <li><a href="maintenance">Perawatan & Perbaikan</a></li>
             </ul>
