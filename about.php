@@ -71,6 +71,7 @@
           </li>
          
           <li><a href="projects">Portofolio</a></li>
+          <li><a href="integritas-kepatuhan">Integritas & Kepatuhan</a></li>
           <li><a href="contact">Kontak Kami</a></li>
         </ul>
       </nav><!-- .navbar -->

@@ -41,7 +41,7 @@
 
 <body>
 
- <!-- ======= Header ======= -->
+  <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
@@ -55,9 +55,9 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index">Beranda</a></li>
+          <li><a href="index" >Beranda</a></li>
           <li><a href="about">Tentang Kami</a></li>
-          <li class="dropdown"><a href="#" class="active"><span>Layanan Kami</span> <i
+          <li class="dropdown"><a href="#"><span>Layanan Kami</span> <i
                 class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="it-programing">Jasa IT & Programming</a></li>
@@ -71,7 +71,7 @@
           </li>
          
           <li><a href="projects">Portofolio</a></li>
-           <li><a href="integritas-kepatuhan">Integritas & Kepatuhan</a></li>
+            <li><a href="integritas-kepatuhan" class="active">Integritas & Kepatuhan</a></li>
           <li><a href="contact">Kontak Kami</a></li>
         </ul>
       </nav><!-- .navbar -->
@@ -80,13 +80,13 @@
   </header><!-- End Header -->
   
  <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-secure.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-print.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-        <h2>Keamanan & Sistem Akses</h2>
+        <h2>Integritas & Kepatuhan</h2>
         <ol>
           <li><a href="index">Beranda</a></li>
-          <li>Keamanan & Sistem Akses</li>
+          <li>Integritas & Kepatuhan</li>
         </ol>
 
       </div>
@@ -99,12 +99,14 @@
     <section id="constructions" class="constructions">
       <div class="container" data-aos="fade-up">
 
-     <div class="section-header">
-        <h2>Keamanan & Sistem Akses</h2>
-        <p>Kami menyediakan solusi sistem keamanan dan akses kontrol seperti CCTV, alarm, fingerprint, dan door access untuk rumah, kantor, maupun instansi. Dukung lingkungan yang aman dan terkendali dengan teknologi yang andal dan mudah digunakan.</p>
-      </div>
-
-
+       <div class="section-header">
+       <h2>Integritas & Kepatuhan</h2>
+      <p>
+        Kevien Tech berkomitmen untuk menjalankan usahanya secara jujur, transparan, dan bertanggung jawab. 
+        Dalam rangka menjaga standar etika dan integritas, kami menyusun dan menerapkan berbagai pedoman sebagai bagian dari tata kelola perusahaan yang baik, 
+        meliputi Pedoman Sistem Manajemen Anti Penyuapan (SMAP), Kode Etik Karyawan, Ketentuan Pengendalian Gratifikasi, serta Sistem Pelaporan Pelanggaran (Whistleblowing System).Dokumen-dokumen ini menjadi landasan dalam menciptakan lingkungan kerja yang bersih, profesional, dan bebas dari praktik korupsi.
+      </p>
+    </div>
 
 
         <div class="row gy-4">
@@ -113,92 +115,136 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-41.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                <div class="card-body">
-                  <h4 class="card-title">CCTV & Monitoring</h4>
-                  <p>Kami menyediakan layanan pemasangan CCTV untuk rumah, kantor, toko, dan area publik. Sistem monitoring kami memungkinkan pengawasan real-time melalui perangkat mobile, dengan kualitas gambar jernih dan instalasi yang rapi.</p>
-                </div>
-
-
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-42.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-               <div class="card-body">
-              <h4 class="card-title">Access Door & Fingerprint</h4>
-              <p>Kami menyediakan sistem access door dan fingerprint untuk meningkatkan keamanan dan pengelolaan akses di kantor, gedung, maupun area terbatas. Solusi ini memudahkan kontrol masuk-keluar dengan sistem otomatis dan pencatatan yang akurat.</p>
-            </div>
-
-
-
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-43.jpg);"></div>
+                  <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
+                        <img src="http://localhost/kevientech/files/pedoman-smap_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        
+                        <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
+                        <a 
+                          href="http://localhost/kevientech/files/pedoman-smap.pdf" 
+                          class="btn btn-outline-primary" 
+                          target="_blank" 
+                          rel="noopener noreferrer">
+                          📄 Lihat Pedoman SMAP
+                        </a>
+                      </div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                  <div class="card-body">
-                  <h4 class="card-title">Alarm & Door Contact</h4>
-                  <p>Kami menyediakan sistem alarm dan door contact untuk mendeteksi akses tidak sah dan meningkatkan keamanan area penting. Sistem ini akan memberikan notifikasi saat pintu atau jendela terbuka tanpa izin, cocok untuk rumah, kantor, dan gudang.</p>
-                </div>
+                <h4 class="card-title">Pedoman Sistem Manajemen Anti Penyuapan</h4>
+                <p>
+                  Pedoman Sistem Manajemen Anti Penyuapan (SMAP) Kevien Tech disusun berdasarkan standar ISO 37001:2016. 
+                  Pedoman ini bertujuan untuk mencegah, mendeteksi, dan menangani risiko penyuapan di seluruh aktivitas perusahaan. 
+                  Kevien Tech berkomitmen untuk menegakkan prinsip integritas, transparansi, dan kepatuhan hukum, serta mendorong seluruh karyawan dan mitra kerja 
+                  untuk menolak segala bentuk penyuapan dalam menjalankan tugasnya.
+                </p>
 
+                </div>
                 </div>
               </div>
             </div>
           </div><!-- End Card Item -->
 
-         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-44.jpg);"></div>
+                  <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
+                        <img src="http://localhost/kevientech/files/kode_etik_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        
+                        <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
+                        <a 
+                          href="http://localhost/kevientech/files/pedoman-smap.pdf" 
+                          class="btn btn-outline-primary" 
+                          target="_blank" 
+                          rel="noopener noreferrer">
+                          📄 Lihat Kode Etik Karyawan
+                        </a>
+                      </div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                <h4 class="card-title">Smoke Detector, Motion Detector</h4>
-                <p>Kami menyediakan dan memasang smoke detector serta motion detector untuk mendeteksi asap kebakaran dan gerakan mencurigakan secara dini. Sistem ini sangat efektif untuk meningkatkan keamanan dan keselamatan di rumah, kantor, maupun area publik.</p>
-              </div>
+                 <div class="card-body">
+                <h4 class="card-title">Kode Etik Karyawan</h4>
+                <p>
+                  Kode Etik Karyawan Kevien Tech merupakan pedoman perilaku yang wajib dipatuhi oleh seluruh karyawan dalam menjalankan tugas dan tanggung jawabnya. 
+                    Dokumen ini mengatur prinsip integritas, profesionalisme, tanggung jawab, serta sikap saling menghormati di lingkungan kerja. 
+                    Dengan adanya kode etik ini, Kevien Tech berkomitmen menciptakan budaya kerja yang sehat, transparan, dan berorientasi pada nilai-nilai moral yang tinggi.
+                </p>
 
-
+                </div>
                 </div>
               </div>
             </div>
           </div><!-- End Card Item -->
 
-           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-45.jpg);"></div>
+                  <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
+                        <img src="http://localhost/kevientech/files/gratifikasi_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        
+                        <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
+                        <a 
+                          href="http://localhost/kevientech/files/gratifikasi.pdf" 
+                          class="btn btn-outline-primary" 
+                          target="_blank" 
+                          rel="noopener noreferrer">
+                          📄 Lihat Kode Etik Karyawan
+                        </a>
+                      </div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                <h4 class="card-title">APAR</h4>
-                <p>Kami menyediakan berbagai jenis APAR (Alat Pemadam Api Ringan) untuk keperluan rumah, kantor, industri, dan kendaraan. Produk bergaransi dan bersertifikat, siap mendukung sistem keselamatan Anda terhadap risiko kebakaran.</p>
-              </div>
+                 <div class="card-body">
+               <h4 class="card-title">Dokumen Ketentuan Pengendalian Gratifikasi</h4>
+                <p>
+                  Dokumen Ketentuan Pengendalian Gratifikasi Kevien Tech disusun sebagai upaya pencegahan terhadap praktik korupsi dan penyalahgunaan wewenang di lingkungan perusahaan. 
+                  Dokumen ini mengatur definisi, bentuk, serta mekanisme pelaporan gratifikasi yang diterima oleh karyawan. 
+                  Kevien Tech berkomitmen untuk menciptakan budaya kerja yang bersih, jujur, dan akuntabel, dengan mendorong setiap individu untuk menolak dan melaporkan setiap bentuk gratifikasi yang berpotensi melanggar integritas.
+                </p>
 
 
-
+                </div>
                 </div>
               </div>
             </div>
           </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
+                        <img src="http://localhost/kevientech/files/whistleblowing_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        
+                        <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
+                        <a 
+                          href="http://localhost/kevientech/files/whistleblowing.pdf" 
+                          class="btn btn-outline-primary" 
+                          target="_blank" 
+                          rel="noopener noreferrer">
+                          📄 Lihat Kode Etik Karyawan
+                        </a>
+                      </div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                 <div class="card-body">
+               <h4 class="card-title">Whistleblowing System</h4>
+                <p>
+                  Whistleblowing System Kevien Tech merupakan mekanisme yang disediakan bagi karyawan maupun pihak eksternal untuk melaporkan dugaan pelanggaran, kecurangan, atau tindakan tidak etis yang terjadi di lingkungan perusahaan. 
+                  Sistem ini dirancang untuk menjamin kerahasiaan identitas pelapor serta memberikan perlindungan terhadap tindakan balasan. 
+                  Kevien Tech berkomitmen untuk menindaklanjuti setiap laporan dengan serius sebagai bagian dari upaya menciptakan tata kelola perusahaan yang bersih, transparan, dan bertanggung jawab.
+                </p>
+
+
+
+                </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+
+         
 
         </div>
 
