@@ -189,7 +189,7 @@
                           class="btn btn-outline-primary" 
                           target="_blank" 
                           rel="noopener noreferrer">
-                          📄 Lihat Kode Etik Karyawan
+                          📄 Lihat Dokumen Ketentuan Pengendalian Gratifikasi
                         </a>
                       </div>
                 </div>
@@ -222,7 +222,7 @@
                           class="btn btn-outline-primary" 
                           target="_blank" 
                           rel="noopener noreferrer">
-                          📄 Lihat Kode Etik Karyawan
+                          📄 Lihat Whistleblowing System
                         </a>
                       </div>
                 </div>
