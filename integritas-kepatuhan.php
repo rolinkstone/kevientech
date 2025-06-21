@@ -116,11 +116,11 @@
               <div class="row">
                 <div class="col-xl-5">
                   <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
-                        <img src="http://localhost/kevientech/files/pedoman-smap_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        <img src="https://kevien-tech.click/files/pedoman-smap_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
                         
                         <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
                         <a 
-                          href="http://localhost/kevientech/files/pedoman-smap.pdf" 
+                          href="https://kevien-tech.click/files/pedoman-smap.pdf" 
                           class="btn btn-outline-primary" 
                           target="_blank" 
                           rel="noopener noreferrer">
@@ -149,11 +149,11 @@
               <div class="row">
                 <div class="col-xl-5">
                   <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
-                        <img src="http://localhost/kevientech/files/kode_etik_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        <img src="https://kevien-tech.click/files/kode_etik_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
                         
                         <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
                         <a 
-                          href="http://localhost/kevientech/files/pedoman-smap.pdf" 
+                          href="https://kevien-tech.click/files/pedoman-smap.pdf" 
                           class="btn btn-outline-primary" 
                           target="_blank" 
                           rel="noopener noreferrer">
@@ -181,11 +181,11 @@
               <div class="row">
                 <div class="col-xl-5">
                   <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
-                        <img src="http://localhost/kevientech/files/gratifikasi_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        <img src="https://kevien-tech.click/files/gratifikasi_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
                         
                         <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
                         <a 
-                          href="http://localhost/kevientech/files/gratifikasi.pdf" 
+                          href="https://kevien-tech.click/files/gratifikasi.pdf" 
                           class="btn btn-outline-primary" 
                           target="_blank" 
                           rel="noopener noreferrer">
@@ -214,11 +214,11 @@
               <div class="row">
                 <div class="col-xl-5">
                   <div class="card-bg text-center" style="padding: 20px; background-color: #f9f9f9;">
-                        <img src="http://localhost/kevientech/files/whistleblowing_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+                        <img src="https://kevien-tech.click/files/whistleblowing_001.png" alt="Thumbnail Pedoman SMAP" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
                         
                         <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
                         <a 
-                          href="http://localhost/kevientech/files/whistleblowing.pdf" 
+                          href="https://kevien-tech.click/files/whistleblowing.pdf" 
                           class="btn btn-outline-primary" 
                           target="_blank" 
                           rel="noopener noreferrer">
