@@ -378,6 +378,33 @@
               </div>
             </div><!-- End Projects Item -->
 
+             <div class="col-lg-4 col-md-6 portfolio-item filter-security">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/security-12.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+               <h4>Pemasangan CCTV</h4>
+              <p>Pemasangan sistem CCTV di salah satu Bank BUMN di Kuala Kapuas sebagai upaya peningkatan keamanan dan pengawasan lingkungan. Kamera dipasang di area strategis seperti ruang transaksi, pintu masuk, dan area parkir untuk memastikan aktivitas terekam dengan jelas. Sistem ini mendukung pemantauan real-time dan perekaman otomatis guna mencegah serta mendeteksi potensi gangguan keamanan secara cepat dan akurat.</p>
+
+                  <a href="assets/img/projects/security-12.jpeg" title="Pemasangan CCTV" data-gallery="portfolio-gallery-procurement"
+                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  
+                </div>
+              </div>
+            </div><!-- End Projects Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-security">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/security-13.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+               <h4>Pemasangan Access Door</h4>
+              <p>Pemasangan Access Door di salah satu Bank BUMN di Kuala Kapuas sebagai sistem kontrol akses untuk meningkatkan keamanan area terbatas. Perangkat ini menggunakan teknologi kartu atau sidik jari untuk membatasi akses hanya kepada personel yang berwenang. Diterapkan pada area penting seperti ruang server dan ruang arsip, sistem ini membantu menjaga kerahasiaan data dan aset penting bank.</p>
+                  <a href="assets/img/projects/security-13.jpeg" title="Pemasangan Access Door" data-gallery="portfolio-gallery-procurement"
+                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  
+                </div>
+              </div>
+            </div><!-- End Projects Item -->
+
             
                <div class="col-lg-4 col-md-6 portfolio-item filter-networking">
               <div class="portfolio-content h-100">
