@@ -207,6 +207,7 @@
           <div class="col-lg-2 col-md-3 footer-links">
             <h4>Layanan Kami</h4>
             <ul>
+<<<<<<< HEAD
               <li><a href="it-programing">Jasa IT & Programming</a></li>
               <li><a href="printing">Percetakan & Desain</a></li>
               <li><a href="procurement">Pengadaan Barang</a></li>
@@ -223,6 +224,14 @@
               <li><a href="https://accounting.kevien-tech.click">Accounting</a></li>
               <li><a href="https://letter.kevien-tech.click">Letter Business</a></li>
               
+=======
+              <li><a href="#">Jasa IT & Programming</a></li>
+              <li><a href="#">Percetakan & Desain</a></li>
+              <li><a href="#">Pengadaan Barang</a></li>
+              <li><a href="#">Keamanan & Sistem Akses</a></li>
+              <li><a href="#">Jaringan & Infrastruktur</a></li>
+              <li><a href="#">Perawatan & Perbaikan</a></li>
+>>>>>>> 05b946b255c26d3046f96eb56e1adb364177ee1b
           
             </ul>
           </div><!-- End footer links column-->
