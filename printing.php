@@ -222,6 +222,17 @@
           </div><!-- End footer links column-->
 
          
+          <div class="col-lg-2 col-md-3 footer-links">
+            <h4>Aplikasi Internal</h4>
+            <ul>
+              <li><a href="https://accounting.kevien-tech.click">Accounting</a></li>
+              <li><a href="https://letter.kevien-tech.click">Letter Business</a></li>
+              
+          
+            </ul>
+          </div><!-- End footer links column-->
+
+         
 
         </div>
       </div>

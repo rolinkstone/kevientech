@@ -225,7 +225,7 @@
             </ul>
           </div><!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
+         <div class="col-lg-2 col-md-3 footer-links">
             <h4>Layanan Kami</h4>
             <ul>
               <li><a href="#">Jasa IT & Programming</a></li>
@@ -234,6 +234,17 @@
               <li><a href="#">Keamanan & Sistem Akses</a></li>
               <li><a href="#">Jaringan & Infrastruktur</a></li>
               <li><a href="#">Perawatan & Perbaikan</a></li>
+          
+            </ul>
+          </div><!-- End footer links column-->
+
+         
+          <div class="col-lg-2 col-md-3 footer-links">
+            <h4>Aplikasi Internal</h4>
+            <ul>
+              <li><a href="https://accounting.kevien-tech.click">Accounting</a></li>
+              <li><a href="https://letter.kevien-tech.click">Letter Business</a></li>
+              
           
             </ul>
           </div><!-- End footer links column-->
