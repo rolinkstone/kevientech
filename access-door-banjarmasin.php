@@ -1,12 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+ <style>
+  .whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #25d366;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
 
+  .whatsapp-float:hover {
+    background-color: #128c7e;
+    color: white;
+  }
+</style>
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kevien Tech</title>
-  <meta content="" name="description">
+  <title>Jual Access Door Banjarmasin | Kevien Tech</title>
+  <meta name="description" content="Dapatkan access door berkualitas tinggi di Banjarmasin dari Kevien Tech. Tersedia berbagai ukuran dan jenis access door untuk industri dan bangunan komersial.">
+
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -38,10 +64,14 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+<!-- Tombol WhatsApp Menggantung -->
+<a href="https://wa.me/6289531774990" class="whatsapp-float" target="_blank" title="Hubungi kami via WhatsApp">
+  <i class="fab fa-whatsapp"></i>
+</a>
 
 <body>
 
- <!-- ======= Header ======= -->
+  <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
@@ -55,9 +85,9 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index">Beranda</a></li>
+          <li><a href="index" >Beranda</a></li>
           <li><a href="about">Tentang Kami</a></li>
-          <li class="dropdown"><a href="#" class="active"><span>Layanan Kami</span> <i
+          <li class="dropdown"><a href="#"><span>Layanan Kami</span> <i
                 class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="it-programing">Jasa IT & Programming</a></li>
@@ -71,7 +101,7 @@
           </li>
          
           <li><a href="projects">Portofolio</a></li>
-           <li><a href="integritas-kepatuhan">Integritas & Kepatuhan</a></li>
+            <li><a href="integritas-kepatuhan" class="active">Integritas & Kepatuhan</a></li>
           <li><a href="contact">Kontak Kami</a></li>
         </ul>
       </nav><!-- .navbar -->
@@ -80,13 +110,13 @@
   </header><!-- End Header -->
   
  <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-secure.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-print.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-        <h2>Keamanan & Sistem Akses</h2>
+        <h2>Access Door Banjarmasin</h2>
         <ol>
           <li><a href="index">Beranda</a></li>
-          <li>Keamanan & Sistem Akses</li>
+          <li>Access Door Banjarmasin</li>
         </ol>
 
       </div>
@@ -99,112 +129,55 @@
     <section id="constructions" class="constructions">
       <div class="container" data-aos="fade-up">
 
-     <div class="section-header">
-        <h2>Keamanan & Sistem Akses</h2>
-        <p>Kami menyediakan solusi sistem keamanan dan akses kontrol seperti CCTV, alarm, fingerprint, dan door access untuk rumah, kantor, maupun instansi. Dukung lingkungan yang aman dan terkendali dengan teknologi yang andal dan mudah digunakan.</p>
-      </div>
-
-
+       <div class="section-header">
+       <h2>Access Door Banjarmasin</h2>
+      <p>
+       Kami dari <strong>Kevien Tech</strong> menyediakan berbagai jenis <strong>access door di Banjarmasin</strong> untuk kebutuhan industri, gudang, dan bangunan komersial. Kualitas terjamin, pemasangan cepat, dan harga bersaing.
+      </p>
+    </div>
 
 
         <div class="row gy-4">
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-41.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                <div class="card-body">
-                  <h4 class="card-title">CCTV & Monitoring</h4>
-                  <p>Kami menyediakan layanan pemasangan CCTV untuk rumah, kantor, toko, dan area publik. Sistem monitoring kami memungkinkan pengawasan real-time melalui perangkat mobile, dengan kualitas gambar jernih dan instalasi yang rapi.</p>
-                </div>
+         
+
+<h1>Access Door Banjarmasin</h1>
+<p>Kami dari <strong>Kevien Tech</strong> menyediakan berbagai jenis <strong>access door di Banjarmasin</strong> untuk kebutuhan industri, gudang, dan bangunan komersial. Kualitas terjamin, pemasangan cepat, dan harga bersaing.</p>
+
+<h2>Kenapa Memilih Access Door Kevien Tech?</h2>
+<ul>
+  <li>Material tahan lama dan anti-karat</li>
+  <li>Desain sesuai kebutuhan proyek</li>
+  <li>Proses instalasi profesional</li>
+  <li>Garansi produk dan layanan</li>
+</ul>
+
+<h2>Jenis Access Door yang Kami Sediakan</h2>
+<ul>
+  <li>Access Door Galvanis</li>
+  <li>Access Door Stainless Steel</li>
+  <li>Access Door Tahan Api</li>
+  <li>Custom Access Door</li>
+</ul>
+
+<h2>Proyek Kami di Banjarmasin</h2>
+<p>Kami telah menyelesaikan berbagai proyek di Banjarmasin dan Kalimantan Selatan, termasuk pemasangan access door di pabrik, gedung perkantoran, dan gudang penyimpanan.</p>
+
+<img src="assets/img/projects/security-9.jpeg" class="img-fluid" alt="Proyek Access Door di Banjarmasin" style="max-width: 300px; height: auto;">
+<img src="assets/img/projects/security-10.jpeg" class="img-fluid" alt="Proyek Access Door di Banjarmasin" style="max-width: 300px; height: auto;">
+<img src="assets/img/projects/security-13.jpeg" class="img-fluid" alt="Proyek Access Door di Banjarmasin" style="max-width: 300px; height: auto;">
+
+<h2>Harga Access Door Banjarmasin</h2>
+<p>Harga access door bervariasi tergantung jenis dan ukuran. Hubungi kami untuk penawaran terbaik sesuai kebutuhan Anda.</p>
+
+<h2>Hubungi Kami</h2>
+<p>Ingin konsultasi atau tanya harga?</p>
+<ul>
+  silakan klik icon wa
+</ul>
 
 
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-          <div class="card-item">
-            <div class="row">
-              <div class="col-xl-5">
-                <a href="access-door-banjarmasin">
-                <div class="card-bg" style="background-image: url(assets/img/constructions-42.jpg); height: 100%; background-size: cover; background-position: center;"></div>
-              </a>
-              </div>
-              <div class="col-xl-7 d-flex align-items-center">
-                <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="access-door-banjarmasin" style="text-decoration: none; color: inherit;">
-                      Access Door & Fingerprint
-                    </a>
-                  </h4>
-                  <p>
-                    Kami menyediakan sistem access door dan fingerprint untuk meningkatkan keamanan dan pengelolaan akses di kantor, gedung, maupun area terbatas. Solusi ini memudahkan kontrol masuk-keluar dengan sistem otomatis dan pencatatan yang akurat.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End Card Item -->
-
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-43.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                 <div class="card-body">
-                  <h4 class="card-title">Alarm & Door Contact</h4>
-                  <p>Kami menyediakan sistem alarm dan door contact untuk mendeteksi akses tidak sah dan meningkatkan keamanan area penting. Sistem ini akan memberikan notifikasi saat pintu atau jendela terbuka tanpa izin, cocok untuk rumah, kantor, dan gudang.</p>
-                </div>
-
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-44.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                <h4 class="card-title">Smoke Detector, Motion Detector</h4>
-                <p>Kami menyediakan dan memasang smoke detector serta motion detector untuk mendeteksi asap kebakaran dan gerakan mencurigakan secara dini. Sistem ini sangat efektif untuk meningkatkan keamanan dan keselamatan di rumah, kantor, maupun area publik.</p>
-              </div>
-
-
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-45.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                <h4 class="card-title">APAR</h4>
-                <p>Kami menyediakan berbagai jenis APAR (Alat Pemadam Api Ringan) untuk keperluan rumah, kantor, industri, dan kendaraan. Produk bergaransi dan bersertifikat, siap mendukung sistem keselamatan Anda terhadap risiko kebakaran.</p>
-              </div>
-
-
-
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
+         
 
         </div>
 
@@ -255,10 +228,10 @@
             </ul>
           </div><!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
+         <div class="col-lg-2 col-md-3 footer-links">
             <h4>Layanan Kami</h4>
             <ul>
-             <li><a href="it-programing">Jasa IT & Programming</a></li>
+           <li><a href="it-programing">Jasa IT & Programming</a></li>
               <li><a href="printing">Percetakan & Desain</a></li>
               <li><a href="procurement">Pengadaan Barang</a></li>
               <li><a href="security">Keamanan & Sistem Akses</a></li>
