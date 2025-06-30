@@ -27,6 +27,19 @@
   }
 </style>
 <head>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Kevien Tech",
+  "image": "https://kevien-tech.click/images/logo.png",
+  "@id": "https://kevien-tech.click",
+  "url": "https://kevien-tech.click/access-door-banjarmasin",
+  
+ 
+}
+</script>
+
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
