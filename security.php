@@ -110,22 +110,28 @@
         <div class="row gy-4">
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-41.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
+          <div class="card-item">
+            <div class="row">
+              <div class="col-xl-5">
+                <a href="cctv-banjarmasin">
+                  <div class="card-bg" style="background-image: url(assets/img/constructions-41.jpg); height: 100%; background-size: cover; background-position: center;"></div>
+                </a>
+              </div>
+              <div class="col-xl-7 d-flex align-items-center">
                 <div class="card-body">
-                  <h4 class="card-title">CCTV & Monitoring</h4>
-                  <p>Kami menyediakan layanan pemasangan CCTV untuk rumah, kantor, toko, dan area publik. Sistem monitoring kami memungkinkan pengawasan real-time melalui perangkat mobile, dengan kualitas gambar jernih dan instalasi yang rapi.</p>
-                </div>
-
-
+                  <h4 class="card-title">
+                    <a href="cctv-banjarmasin" style="text-decoration: none; color: inherit;">
+                      CCTV & Monitoring
+                    </a>
+                  </h4>
+                  <p>
+                    Kami menyediakan layanan pemasangan CCTV untuk rumah, kantor, toko, dan area publik. Sistem monitoring kami memungkinkan pengawasan real-time melalui perangkat mobile, dengan kualitas gambar jernih dan instalasi yang rapi.
+                  </p>
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
+        </div><!-- End Card Item -->
 
          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="card-item">

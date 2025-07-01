@@ -34,15 +34,15 @@
   "name": "Kevien Tech",
   "image": "https://kevien-tech.click/images/logo.png",
   "@id": "https://kevien-tech.click",
-  "url": "https://kevien-tech.click/access-door-banjarmasin"
+  "url": "https://kevien-tech.click/cctv-banjarmasin"
 }
 </script>
 
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Jual Access Door Banjarmasin | Kevien Tech</title>
-  <meta name="description" content="Dapatkan access door berkualitas tinggi di Banjarmasin dari Kevien Tech. Tersedia berbagai ukuran dan jenis access door untuk industri dan bangunan komersial.">
+  <title>Jual CCTV Banjarmasin | Pasang CCTV Indoor & Outdoor | Kevien Tech<</title>
+ <meta name="description" content="Kevien Tech melayani pemasangan CCTV di Banjarmasin dan sekitarnya. Kami menyediakan CCTV berkualitas untuk rumah, kantor, toko, dan gudang dengan harga terbaik.">
 
   <meta content="" name="keywords">
 
@@ -112,7 +112,7 @@
           </li>
          
           <li><a href="projects">Portofolio</a></li>
-            <li><a href="integritas-kepatuhan" >Integritas & Kepatuhan</a></li>
+            <li><a href="integritas-kepatuhan" class="active">Integritas & Kepatuhan</a></li>
           <li><a href="contact">Kontak Kami</a></li>
         </ul>
       </nav><!-- .navbar -->
@@ -124,10 +124,10 @@
     <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-print.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-        <h2>Access Door Banjarmasin</h2>
+        <h2>CCTV Banjarmasin</h2>
         <ol>
           <li><a href="index">Beranda</a></li>
-          <li>Access Door Banjarmasin</li>
+          <li>CCTV Banjarmasin</li>
         </ol>
 
       </div>
@@ -137,68 +137,68 @@
   <main id="main">
    
 <!-- ======= Constructions Section ======= -->
-    <section id="constructions" class="constructions">
-      <div class="container" data-aos="fade-up">
+<section id="constructions" class="constructions">
+  <div class="container" data-aos="fade-up">
 
-       <div class="section-header">
-       <h2>Access Door Banjarmasin</h2>
-      <p>
-       Kami dari <strong>Kevien Tech</strong> menyediakan berbagai jenis <strong>access door di Banjarmasin</strong> untuk kebutuhan industri, gudang, dan bangunan komersial. Kualitas terjamin, pemasangan cepat, dan harga bersaing.
-      </p>
+    <div class="section-header">
+      <h2>CCTV Banjarmasin</h2>
+      <p><strong>Kevien Tech</strong> adalah penyedia layanan <strong>pasang CCTV di Banjarmasin</strong> untuk berbagai kebutuhan, mulai dari rumah, ruko, kantor, hingga gudang. Kami menghadirkan solusi pengawasan terbaik dengan teknologi terbaru dan tim teknisi berpengalaman.</p>
+
     </div>
 
+    <div class="row gy-4">
 
-        <div class="row gy-4">
-
-         
-
-<h1>Access Door Banjarmasin</h1>
-<p>Kami dari <strong>Kevien Tech</strong> menyediakan berbagai jenis <strong>access door di Banjarmasin</strong> untuk kebutuhan industri, gudang, dan bangunan komersial. Kualitas terjamin, pemasangan cepat, dan harga bersaing.</p>
-
-<h2>Kenapa Memilih Access Door Kevien Tech?</h2>
-<ul>
-  <li>Material tahan lama dan anti-karat</li>
-  <li>Desain sesuai kebutuhan proyek</li>
-  <li>Proses instalasi profesional</li>
-  <li>Garansi produk dan layanan</li>
-</ul>
-
-<h2>Jenis Access Door yang Kami Sediakan</h2>
-<ul>
-  <li>Access Door Galvanis</li>
-  <li>Access Door Stainless Steel</li>
-  <li>Access Door Tahan Api</li>
-  <li>Custom Access Door</li>
-</ul>
-
-<h2>Proyek Kami di Banjarmasin</h2>
-<p>Kami telah menyelesaikan berbagai proyek di Banjarmasin dan Kalimantan Selatan, termasuk pemasangan access door di pabrik, gedung perkantoran, dan gudang penyimpanan.</p>
-
-<img src="assets/img/projects/security-9.jpeg" class="img-fluid" alt="Proyek Access Door di Banjarmasin" style="max-width: 300px; height: auto;">
-<img src="assets/img/projects/security-10.jpeg" class="img-fluid" alt="Proyek Access Door di Banjarmasin" style="max-width: 300px; height: auto;">
-<img src="assets/img/projects/security-13.jpeg" class="img-fluid" alt="Proyek Access Door di Banjarmasin" style="max-width: 300px; height: auto;">
-
-<h2>Harga Access Door Banjarmasin</h2>
-<p>Harga access door bervariasi tergantung jenis dan ukuran. Hubungi kami untuk penawaran terbaik sesuai kebutuhan Anda.</p>
-
-<h2>Hubungi Kami</h2>
-<p>Ingin konsultasi atau tanya harga?</p>
-<ul>
-  silakan klik icon wa
-</ul>
-
-
-         
-
-        </div>
-
+      <div class="col-lg-12">
+        <h2>Kenapa Memilih Jasa Pasang CCTV Kevien Tech?</h2>
+        <ul>
+          <li>Gambar jernih siang dan malam (infrared)</li>
+          <li>Teknisi berpengalaman dan bersertifikat</li>
+          <li>Pemasangan rapi dan cepat</li>
+          <li>Dukungan garansi dan after sales</li>
+        </ul>
       </div>
-    </section><!-- End Constructions Section -->
-    
 
-    
+      <div class="col-lg-12">
+        <h2>Jenis CCTV yang Kami Sediakan</h2>
+        <ul>
+          <li>CCTV Indoor & Outdoor</li>
+          <li>CCTV Wireless & Kabel</li>
+          <li>IP Camera & DVR</li>
+          <li>CCTV Full HD & Night Vision</li>
+        </ul>
+      </div>
 
-    
+      <div class="col-lg-12">
+        <h2>Proyek CCTV Kami di Banjarmasin</h2>
+        <p>
+          Kami telah mengerjakan berbagai proyek CCTV di Banjarmasin untuk perumahan, toko, sekolah, rumah sakit, dan perusahaan swasta. Keamanan Anda adalah prioritas kami.
+        </p>
+        <div class="d-flex flex-wrap gap-3">
+          <img src="assets/img/projects/security-1.jpeg" class="img-fluid" alt="Proyek CCTV di Banjarmasin" style="max-width: 300px; height: auto;">
+          <img src="assets/img/projects/security-12.jpeg" class="img-fluid" alt="Pemasangan CCTV Kevien Tech" style="max-width: 300px; height: auto;">
+        </div>
+      </div>
+
+      <div class="col-lg-12">
+        <h2>Harga CCTV Banjarmasin</h2>
+        <p>
+          Harga CCTV mulai dari paket hemat 2 kamera hingga instalasi lengkap 16 channel. Hubungi kami untuk konsultasi gratis dan penawaran terbaik.
+        </p>
+      </div>
+
+      <div class="col-lg-12">
+        <h2>Hubungi Kami</h2>
+          <p>Ingin konsultasi atau tanya harga?</p>
+          <ul>
+            silakan klik icon wa
+          </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- End Constructions Section -->
+
 
     
 
