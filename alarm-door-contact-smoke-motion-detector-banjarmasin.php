@@ -1,12 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
+ <style>
+  .whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #25d366;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
 
+  .whatsapp-float:hover {
+    background-color: #128c7e;
+    color: white;
+  }
+</style>
 <head>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Kevien Tech",
+  "image": "https://kevien-tech.click/images/logo.png",
+  "@id": "https://kevien-tech.click",
+  "url": "https://kevien-tech.click/access-door-banjarmasin"
+}
+</script>
+
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kevien Tech</title>
-  <meta content="" name="description">
+  <title>Alarm, Door Contact, Smoke Detector, Motion Detector Banjarmasin | Kevien Tech</title>
+ <meta name="description" content="Jual dan pasang sistem keamanan di Banjarmasin: Alarm, Sensor Pintu (Door Contact), Smoke Detector, dan Motion Detector. Konsultasi gratis bersama Kevien Tech.">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -38,10 +74,14 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+<!-- Tombol WhatsApp Menggantung -->
+<a href="https://wa.me/6289531774990" class="whatsapp-float" target="_blank" title="Hubungi kami via WhatsApp">
+  <i class="fab fa-whatsapp"></i>
+</a>
 
 <body>
 
- <!-- ======= Header ======= -->
+  <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
@@ -55,7 +95,7 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index">Beranda</a></li>
+          <li><a href="index" >Beranda</a></li>
           <li><a href="about">Tentang Kami</a></li>
           <li class="dropdown"><a href="#" class="active"><span>Layanan Kami</span> <i
                 class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -71,163 +111,83 @@
           </li>
          
           <li><a href="projects">Portofolio</a></li>
-           <li><a href="integritas-kepatuhan">Integritas & Kepatuhan</a></li>
+            <li><a href="integritas-kepatuhan" >Integritas & Kepatuhan</a></li>
           <li><a href="contact">Kontak Kami</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
-  
  <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-secure.jpg');">
-      <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+<div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-print.jpg');">
+  <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-        <h2>Keamanan & Sistem Akses</h2>
-        <ol>
-          <li><a href="index">Beranda</a></li>
-          <li>Keamanan & Sistem Akses</li>
-        </ol>
+    <h2>Sistem Keamanan Banjarmasin</h2>
+    <ol>
+      <li><a href="index">Beranda</a></li>
+      <li>Sistem Keamanan Banjarmasin</li>
+    </ol>
 
-      </div>
-    </div><!-- End Breadcrumbs -->
+  </div>
+</div><!-- End Breadcrumbs -->
+
   
 
   <main id="main">
    
 <!-- ======= Constructions Section ======= -->
-    <section id="constructions" class="constructions">
-      <div class="container" data-aos="fade-up">
+<section id="constructions" class="constructions">
+  <div class="container" data-aos="fade-up">
 
-     <div class="section-header">
-        <h2>Keamanan & Sistem Akses</h2>
-        <p>Kami menyediakan solusi sistem keamanan dan akses kontrol seperti CCTV, alarm, fingerprint, dan door access untuk rumah, kantor, maupun instansi. Dukung lingkungan yang aman dan terkendali dengan teknologi yang andal dan mudah digunakan.</p>
-      </div>
+    <div class="section-header">
+      <h2>Sistem Keamanan Banjarmasin</h2>
+      <p>
+        Kami dari <strong>Kevien Tech</strong> menyediakan berbagai solusi <strong>sistem keamanan di Banjarmasin</strong> seperti Alarm System, Door Contact, Smoke Detector, dan Motion Detector. Kualitas produk terbaik dengan instalasi cepat dan bergaransi.
+      </p>
+    </div>
 
+    <div class="row gy-4">
 
+      <h1>Alarm, Door Contact, Smoke Detector, Motion Detector Banjarmasin</h1>
+      <p><strong>Kevien Tech</strong> hadir sebagai penyedia sistem keamanan terintegrasi di Banjarmasin untuk perlindungan rumah, kantor, hingga industri.</p>
 
+      <h2>Kenapa Memilih Sistem Keamanan Kevien Tech?</h2>
+      <ul>
+        <li>Teknologi terkini & terpercaya</li>
+        <li>Instalasi profesional & cepat</li>
+        <li>Produk bergaransi resmi</li>
+        <li>Bisa diintegrasikan dengan CCTV & IoT</li>
+      </ul>
 
-        <div class="row gy-4">
+      <h2>Produk Keamanan yang Kami Tawarkan</h2>
+      <ul>
+        <li><strong>Alarm System:</strong> Peringatan dini terhadap gangguan atau intrusi.</li>
+        <li><strong>Door Contact:</strong> Sensor pintu yang mendeteksi akses ilegal.</li>
+        <li><strong>Smoke Detector:</strong> Deteksi asap/kebakaran secara real-time.</li>
+        <li><strong>Motion Detector:</strong> Sensor gerak untuk area sensitif.</li>
+      </ul>
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-          <div class="card-item">
-            <div class="row">
-              <div class="col-xl-5">
-                <a href="cctv-banjarmasin">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-41.jpg); height: 100%; background-size: cover; background-position: center;"></div>
-                </a>
-              </div>
-              <div class="col-xl-7 d-flex align-items-center">
-                <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="cctv-banjarmasin" style="text-decoration: none; color: inherit;">
-                      CCTV & Monitoring
-                    </a>
-                  </h4>
-                  <p>
-                    Kami menyediakan layanan pemasangan CCTV untuk rumah, kantor, toko, dan area publik. Sistem monitoring kami memungkinkan pengawasan real-time melalui perangkat mobile, dengan kualitas gambar jernih dan instalasi yang rapi.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End Card Item -->
+      <h2>Proyek Sistem Keamanan di Banjarmasin</h2>
+      <p>Kami telah menangani pemasangan sistem keamanan di gedung pemerintah, sekolah, rumah sakit, dan rumah pribadi di Banjarmasin dan sekitarnya.</p>
 
-         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-          <div class="card-item">
-            <div class="row">
-              <div class="col-xl-5">
-                <a href="access-door-banjarmasin">
-                <div class="card-bg" style="background-image: url(assets/img/constructions-42.jpg); height: 100%; background-size: cover; background-position: center;"></div>
-              </a>
-              </div>
-              <div class="col-xl-7 d-flex align-items-center">
-                <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="access-door-banjarmasin" style="text-decoration: none; color: inherit;">
-                      Access Door & Fingerprint
-                    </a>
-                  </h4>
-                  <p>
-                    Kami menyediakan sistem access door dan fingerprint untuk meningkatkan keamanan dan pengelolaan akses di kantor, gedung, maupun area terbatas. Solusi ini memudahkan kontrol masuk-keluar dengan sistem otomatis dan pencatatan yang akurat.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End Card Item -->
+      <img src="assets/img/projects/security-1.jpeg" class="img-fluid" alt="Instalasi Alarm di Banjarmasin" style="max-width: 300px; height: auto;">
+      <img src="assets/img/projects/security-2.jpeg" class="img-fluid" alt="Sensor Asap Banjarmasin" style="max-width: 300px; height: auto;">
+      <img src="assets/img/projects/security-3.jpeg" class="img-fluid" alt="Motion Detector Banjarmasin" style="max-width: 300px; height: auto;">
 
+      <h2>Harga Sistem Keamanan Banjarmasin</h2>
+      <p>Harga bervariasi tergantung perangkat, jumlah unit, dan lokasi pemasangan. Kami siap memberikan penawaran terbaik untuk Anda.</p>
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                <a href="alarm-door-contact-smoke-motion-detector-banjarmasin">
-                <div class="card-bg" style="background-image: url(assets/img/constructions-43.jpg); height: 100%; background-size: cover; background-position: center;"></div>
-                </a>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                 <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="alarm-door-contact-smoke-motion-detector-banjarmasin" style="text-decoration: none; color: inherit;">
-                      Alarm & Door Contact
-                    </a>
-                  </h4>
-                  <p>Kami menyediakan sistem alarm dan door contact untuk mendeteksi akses tidak sah dan meningkatkan keamanan area penting. Sistem ini akan memberikan notifikasi saat pintu atau jendela terbuka tanpa izin, cocok untuk rumah, kantor, dan gudang.</p>
-                </div>
+      <h2>Hubungi Kami</h2>
+      <p>Ingin konsultasi lebih lanjut atau tanya harga?</p>
+      <ul>
+        <li>Silakan klik ikon WhatsApp di tengah bawah halaman untuk berbicara langsung dengan tim kami.</li>
+      </ul>
 
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
+    </div>
 
-         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <a href="alarm-door-contact-smoke-motion-detector-banjarmasin">
-                <div class="card-bg" style="background-image: url(assets/img/constructions-44.jpg); height: 100%; background-size: cover; background-position: center;"></div>
-                </a>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                <h4 class="card-title">
-                    <a href="alarm-door-contact-smoke-motion-detector-banjarmasin" style="text-decoration: none; color: inherit;">
-                      Smoke Detector, Motion Detector
-                    </a>
-                  </h4>
-                <p>Kami menyediakan dan memasang smoke detector serta motion detector untuk mendeteksi asap kebakaran dan gerakan mencurigakan secara dini. Sistem ini sangat efektif untuk meningkatkan keamanan dan keselamatan di rumah, kantor, maupun area publik.</p>
-              </div>
-
-
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-45.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                <h4 class="card-title">APAR</h4>
-                <p>Kami menyediakan berbagai jenis APAR (Alat Pemadam Api Ringan) untuk keperluan rumah, kantor, industri, dan kendaraan. Produk bergaransi dan bersertifikat, siap mendukung sistem keselamatan Anda terhadap risiko kebakaran.</p>
-              </div>
-
-
-
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Constructions Section -->
+  </div>
+</section>
+<!-- End Constructions Section -->
     
 
     
@@ -273,10 +233,10 @@
             </ul>
           </div><!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
+         <div class="col-lg-2 col-md-3 footer-links">
             <h4>Layanan Kami</h4>
             <ul>
-             <li><a href="it-programing">Jasa IT & Programming</a></li>
+           <li><a href="it-programing">Jasa IT & Programming</a></li>
               <li><a href="printing">Percetakan & Desain</a></li>
               <li><a href="procurement">Pengadaan Barang</a></li>
               <li><a href="security">Keamanan & Sistem Akses</a></li>
