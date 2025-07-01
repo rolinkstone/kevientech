@@ -34,9 +34,7 @@
   "name": "Kevien Tech",
   "image": "https://kevien-tech.click/images/logo.png",
   "@id": "https://kevien-tech.click",
-  "url": "https://kevien-tech.click/access-door-banjarmasin",
-  
- 
+  "url": "https://kevien-tech.click/access-door-banjarmasin"
 }
 </script>
 
