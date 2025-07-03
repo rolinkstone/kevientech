@@ -1,12 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
+ <style>
+  .whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #25d366;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
 
+  .whatsapp-float:hover {
+    background-color: #128c7e;
+    color: white;
+  }
+</style>
 <head>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Kevien Tech",
+  "image": "https://kevien-tech.click/images/logo.png",
+  "@id": "https://kevien-tech.click",
+  "url": "https://kevien-tech.click/jasa-pembuatan-website-umkm-banjarmasin"
+}
+</script>
+
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kevien Tech</title>
-  <meta content="" name="description">
+  <title>Jasa Pembuatan Website Bisnis UMKM Lokal di Banjarmasin | Kevien Tech</title>
+  <meta name="description" content="Butuh website profesional untuk UMKM Anda di Banjarmasin? Kevien Tech siap bantu pembuatan website bisnis lokal lengkap dengan bonus aplikasi akuntansi dan persuratan.">
+
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -38,10 +75,14 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+<!-- Tombol WhatsApp Menggantung -->
+<a href="https://wa.me/6289531774990" class="whatsapp-float" target="_blank" title="Hubungi kami via WhatsApp">
+  <i class="fab fa-whatsapp"></i>
+</a>
 
 <body>
 
- <!-- ======= Header ======= -->
+  <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
@@ -71,21 +112,22 @@
           </li>
          
           <li><a href="projects">Portofolio</a></li>
-           <li><a href="integritas-kepatuhan">Integritas & Kepatuhan</a></li>
+            <li><a href="integritas-kepatuhan" >Integritas & Kepatuhan</a></li>
           <li><a href="contact">Kontak Kami</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
+  
  <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-it.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg-print.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-        <h2>Jasa IT & Programming</h2>
+        <h2>Website Bisnis UMKM Lokal di Banjarmasin</h2>
         <ol>
           <li><a href="index">Beranda</a></li>
-          <li>Jasa IT & Programming</li>
+          <li>Jasa Pembuatan Website Bisnis UMKM Lokal di Banjarmasin</li>
         </ol>
 
       </div>
@@ -95,76 +137,79 @@
   <main id="main">
    
 <!-- ======= Constructions Section ======= -->
-    <section id="constructions" class="constructions">
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-header">
-        <h2>Jasa IT & Programming</h2>
-        <p>Kami menyediakan berbagai layanan IT dan pemrograman, mulai dari pembuatan website, aplikasi berbasis web, hingga solusi digital sesuai kebutuhan Anda. Dengan tim profesional, kami siap membantu bisnis Anda berkembang di era teknologi.</p>
-      </div>
+<section id="website-umkm" class="constructions">
+  <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4">
+    <div class="section-header">
+      <h2>Jasa Pembuatan Website Bisnis UMKM Lokal di Banjarmasin</h2>
+      <p>
+        Kami dari <strong>Kevien Tech</strong> menawarkan layanan <strong>pembuatan website bisnis untuk UMKM lokal di Banjarmasin</strong>. Bantu UMKM tampil online dengan desain profesional, harga terjangkau, dan dukungan penuh.
+      </p>
+    </div>
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                 <a href="jasa-pembuatan-website-umkm-banjarmasin">
-                <div class="card-bg" style="background-image: url(assets/img/constructions-1.jpg); height: 100%; background-size: cover; background-position: center;"></div>
-                </a>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                 <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="jasa-pembuatan-website-umkm-banjarmasin" style="text-decoration: none; color: inherit;">
-                     Pembuatan Website & Aplikasi
-                    </a>
-                    </h4>
-                  <p>Kami melayani pembuatan website dan aplikasi sesuai kebutuhan Anda—baik untuk bisnis, organisasi, maupun personal. Desain menarik, fungsional, dan mudah digunakan adalah prioritas kami dalam setiap proyek.</p>
-                </div>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
+    <div class="row gy-4">
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-2.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                    <h4 class="card-title">Desain Web & UI/UX</h4>
-                    <p>Kami menyediakan layanan desain web dan UI/UX yang fokus pada tampilan menarik dan pengalaman pengguna yang optimal. Desain kami tidak hanya estetik, tapi juga fungsional, intuitif, dan ramah pengguna di semua perangkat.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
+      <h1>Website UMKM Banjarmasin</h1>
+      <p>
+        Website bukan lagi kebutuhan sekunder. Kini UMKM di Banjarmasin membutuhkan kehadiran online untuk menjangkau pelanggan lebih luas. <strong>Kevien Tech</strong> hadir dengan solusi pembuatan website modern dan SEO-friendly.
+      </p>
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-3.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                    <h4 class="card-title">Integrasi Sistem dan API</h4>
-                    <p>Kami membantu menghubungkan berbagai sistem dan aplikasi melalui integrasi API yang handal dan aman. Solusi kami memastikan data dapat mengalir dengan lancar antar sistem, meningkatkan efisiensi dan produktivitas operasional Anda.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
+      <h2>Kenapa Harus Punya Website Bisnis?</h2>
+      <ul>
+        <li>Meningkatkan kepercayaan calon pelanggan</li>
+        <li>Bisa diakses 24 jam oleh siapa saja</li>
+        <li>Mendukung pemasaran lewat media sosial dan Google</li>
+        <li>Menjadi pusat informasi produk dan layanan</li>
+      </ul>
 
-         
+      <h2>Fitur Website yang Kami Tawarkan</h2>
+      <ul>
+        <li>Desain responsif (bisa dibuka di HP dan laptop)</li>
+        <li>Formulir kontak & integrasi WhatsApp</li>
+        <li>SEO dasar agar muncul di Google</li>
+        <li>Gratis domain & hosting tahun pertama</li>
+        <li>CMS mudah digunakan (update produk & konten sendiri)</li>
+      </ul>
 
-        </div>
+      <h2>🎁 Bonus: Aplikasi Akuntansi & Persuratan</h2>
+      <p>Setiap pemesanan website UMKM akan mendapatkan <strong>bonus aplikasi akuntansi dan persuratan</strong> untuk kemudahan administrasi dan keuangan bisnis Anda.</p>
+      <ul>
+        <li><strong>Aplikasi Akuntansi:</strong> Catat pemasukan, pengeluaran, dan laporan keuangan sederhana</li>
+        <li><strong>Aplikasi Persuratan:</strong> Buat dan arsipkan surat keluar/masuk dengan mudah</li>
+        <li>Bisa diakses online melalui laptop atau HP</li>
+        <li>User-friendly dan cocok untuk pemilik usaha mikro dan kecil</li>
+      </ul>
 
-      </div>
-    </section><!-- End Constructions Section -->
+    
+       <h2>Bonus Aplikasi Persuratan dan Keuangan</h2>
+      <p>Aplikasi Administrasi:</p>
+      <img src="assets/img/projects/web-umkm-1.jpeg" class="img-fluid" alt="Contoh Website UMKM Banjarmasin" style="max-width: 300px; height: auto;">
+      <img src="assets/img/projects/web-umkm-2.jpeg" class="img-fluid" alt="Contoh Website UMKM Banjarmasin" style="max-width: 300px; height: auto;">
+      
+      
+
+
+      <h2>Harga Pembuatan Website UMKM</h2>
+      <p>
+        Paket mulai dari <strong>Rp 2.500.000</strong> sudah termasuk domain, hosting, desain, dan <strong>bonus aplikasi administrasi</strong>.
+      </p>
+
+      <h2>Hubungi Kami Sekarang</h2>
+      <p>
+        Ingin konsultasi atau minta penawaran?
+      </p>
+      <ul>
+        <li>Klik ikon WhatsApp di pojok bawah</li>
+        <li>Atau hubungi kami di <a href="https://wa.me/6281234567890">+62 812-3456-7890</a></li>
+      </ul>
+
+    </div>
+
+  </div>
+</section>
+
+<!-- End Constructions Section -->
     
 
     
@@ -210,10 +255,10 @@
             </ul>
           </div><!-- End footer links column-->
 
-        <div class="col-lg-2 col-md-3 footer-links">
+         <div class="col-lg-2 col-md-3 footer-links">
             <h4>Layanan Kami</h4>
             <ul>
-             <li><a href="it-programing">Jasa IT & Programming</a></li>
+           <li><a href="it-programing">Jasa IT & Programming</a></li>
               <li><a href="printing">Percetakan & Desain</a></li>
               <li><a href="procurement">Pengadaan Barang</a></li>
               <li><a href="security">Keamanan & Sistem Akses</a></li>
