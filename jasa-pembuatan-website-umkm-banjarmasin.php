@@ -174,6 +174,10 @@
 
       <h2>🎁 Bonus: Aplikasi Akuntansi & Persuratan</h2>
       <p>Setiap pemesanan website UMKM akan mendapatkan <strong>bonus aplikasi akuntansi dan persuratan</strong> untuk kemudahan administrasi dan keuangan bisnis Anda.</p>
+      <img src="assets/img/projects/web-umkm-1.jpeg" class="img-fluid" alt="Contoh Website UMKM Banjarmasin" style="max-width: 300px; height: auto;">
+      <img src="assets/img/projects/web-umkm-2.jpeg" class="img-fluid" alt="Contoh Website UMKM Banjarmasin" style="max-width: 300px; height: auto;">
+      
+      
       <ul>
         <li><strong>Aplikasi Akuntansi:</strong> Catat pemasukan, pengeluaran, dan laporan keuangan sederhana</li>
         <li><strong>Aplikasi Persuratan:</strong> Buat dan arsipkan surat keluar/masuk dengan mudah</li>
@@ -182,12 +186,7 @@
       </ul>
 
     
-       <h2>Bonus Aplikasi Persuratan dan Keuangan</h2>
-      <p>Aplikasi Administrasi:</p>
-      <img src="assets/img/projects/web-umkm-1.jpeg" class="img-fluid" alt="Contoh Website UMKM Banjarmasin" style="max-width: 300px; height: auto;">
-      <img src="assets/img/projects/web-umkm-2.jpeg" class="img-fluid" alt="Contoh Website UMKM Banjarmasin" style="max-width: 300px; height: auto;">
-      
-      
+     
 
 
       <h2>Harga Pembuatan Website UMKM</h2>
