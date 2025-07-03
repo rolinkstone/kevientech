@@ -153,7 +153,7 @@
                         
                         <p class="mt-3"><strong>File PDF dapat dilihat melalui tautan berikut:</strong></p>
                         <a 
-                          href="https://kevien-tech.click/files/pedoman-smap.pdf" 
+                          href="https://kevien-tech.click/files/kode_etik.pdf" 
                           class="btn btn-outline-primary" 
                           target="_blank" 
                           rel="noopener noreferrer">
